@@ -33,4 +33,4 @@ Vous pouvez me contacter par email à [guewoljohannkionghat@gmail.com](mailto:gu
 
 ---
 
-![Footer](https://your-image-link.com/footer.png)
+![Footer](https://myportfoliokgj3.netlify.app/asset/img/about.png)
