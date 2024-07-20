@@ -1,21 +1,31 @@
-# Bienvenue sur mon profil GitHub ! 👋
+![Header](https://media.licdn.com/dms/image/D4E16AQFgOyc5RBYHWw/profile-displaybackgroundimage-shrink_350_1400/0/1700431649001?e=1726704000&v=beta&t=HTZ4i3ngsmTsrPQPbdO0iKkEjXjtI2v5vq_ki0vSgIM)
 
-## À propos de moi
-Salut, je suis Guewol Johann KIONGHAT, un passionné de développement web full-stack. Avec une solide expérience dans la création d'applications web robustes et conviviales, je suis constamment à la recherche de nouveaux défis pour perfectionner mes compétences.
+# Bonjour, je suis Johann Guewol KIONGHAT 👋
 
-## Compétences
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js, MongoDB, MySQL
-- **Outils de développement:** Git, Webpack, Babel
-- **Autres technologies:** GraphQL, RESTful APIs, Firebase
+![GitHub followers](https://img.shields.io/github/followers/johannKionghat?label=Suiveurs&style=social)
+![GitHub stars](https://img.shields.io/github/stars/johannKionghat?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/johannKionghat?style=social)
 
-## Contributions open source
-Je suis également actif dans la communauté open source. Vous pouvez jeter un œil à mes contributions sur [mon profil GitHub](lien_vers_votre_profil).
+## 🛠 Compétences
+- Langages: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- Frameworks: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- Outils: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## En savoir plus
-Je suis toujours ouvert à de nouvelles opportunités de collaboration et d'apprentissage. N'hésitez pas à me contacter pour discuter de projets passionnants ou de collaborations potentielles.
 
-## Me suivre
-- https://myportfoliokgj3.netlify.app/
-- https://www.linkedin.com/in/cg-johann-kionghat/
-Merci de visiter mon profil ! 😊
+## 📈 Statistiques GitHub
+![Les statistiques GitHub de tonpseudo](https://github-readme-stats.vercel.app/api?username=johannKionghat&show_icons=true&theme=radical)
+![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=johannKionghat&layout=compact&theme=radical)
+
+## 🏆 Trophées GitHub
+![Trophées](https://github-profile-trophy.vercel.app/?username=johannKionghat&theme=radical)
+
+## 🌐 Reseaux Sociaux
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cg-johann-kionghat/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://myportfoliogjk3.netlify.app)
+
+## 📬 Contact
+Vous pouvez me contacter par email à [guewoljohannkionghat@gmail.com](guewoljohannkionghat@gmail.com).
+
+---
+
+![Footer](https://your-image-link.com/footer.png)
