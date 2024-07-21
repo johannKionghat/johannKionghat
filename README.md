@@ -23,7 +23,7 @@
 
 ## 🌐 Reseaux Sociaux
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cg-johann-kionghat/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://myportfoliogjk3.netlify.app)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://myportfoliokgj3.netlify.app)
 
 ## 📄 CV
 [![Download CV](https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://myportfoliokgj3.netlify.app/asset/cv/johann%20KIONGHAT%20CV%202.pdf)
