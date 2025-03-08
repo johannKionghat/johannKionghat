@@ -14,10 +14,6 @@
 - Bases de données: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - Autres: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📈 Statistiques GitHub
-![Les statistiques GitHub de johannKionghat](https://github-readme-stats.vercel.app/api?username=johannKionghat&show_icons=true&theme=radical)
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=johannKionghat&layout=compact&theme=radical)
-
 ## 🏆 Trophées GitHub
 ![Trophées](https://github-profile-trophy.vercel.app/?username=johannKionghat&theme=radical)
 
@@ -25,8 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cg-johann-kionghat/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://myportfoliokgj3.netlify.app)
 
-## 📄 CV
-[![Download CV](https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://myportfoliokgj3.netlify.app/asset/cv/johann%20KIONGHAT%20CV%202.pdf)
 
 ## 📬 Contact
 Vous pouvez me contacter par email à [guewoljohannkionghat@gmail.com](mailto:guewoljohannkionghat@gmail.com).
