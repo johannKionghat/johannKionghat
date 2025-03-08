@@ -24,7 +24,3 @@
 
 ## 📬 Contact
 Vous pouvez me contacter par email à [guewoljohannkionghat@gmail.com](mailto:guewoljohannkionghat@gmail.com).
-
----
-
-![Footer](https://myportfoliokgj3.netlify.app/asset/img/about.png)
